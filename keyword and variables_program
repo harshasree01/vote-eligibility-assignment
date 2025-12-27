@@ -1,0 +1,9 @@
+#using variables
+age = 20
+name = "harsha"
+
+# using keywords: if,else,print
+if age >=18:
+    print(name, "is eligible to vote")
+else:
+    print(name," is not eligible to vote")
